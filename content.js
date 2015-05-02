@@ -1,5 +1,3 @@
-console.log("hello from hydra");
-
 var opened = false;
 var timeout = -1;
 
