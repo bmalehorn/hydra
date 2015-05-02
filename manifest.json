@@ -15,7 +15,7 @@
 
     "omnibox": { "keyword" : "hydra" },
     "icons": {
-        "128": "snake.png"
+        "128": "hydra-128.png"
     },
 
     "permissions": [
